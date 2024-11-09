@@ -33,6 +33,7 @@ Is TODO application where user can :
         - [ ] Name
         - [ ] Email
 
+## Tech Spesification
 
 ## License
 
